@@ -1,4 +1,4 @@
-# NLW-Esportes - Trilha EXPLORER (Rocketseat)
+# Evento NLW eSpots - Explorer
 <p> Instutor Make Brito </p>
 
 # Tecnologias Usadas 
