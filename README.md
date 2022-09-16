@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # NLW eSports
 
  ![preview](./.github/preview.png)
@@ -27,3 +28,10 @@
  ## _Contato_
 
  ronicley8@hotmail.com
+=======
+# Evento NLW eSpots - Explorer
+<p> Instutor Make Brito </p>
+
+# Tecnologias Usadas 
+<p>HTML & CSS </p>
+>>>>>>> aa8d93b530379d7fa8209484261bcd8a06629f22
