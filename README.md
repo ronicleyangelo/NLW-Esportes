@@ -12,7 +12,7 @@
 
   ### _Site_
 
-  ![:link: Clique aqui para acessar o site] (https://nlw-esports-trilha-explorer.vercel.app/)
+  ![ :link: Clique aqui para acessar o site ] (https://nlw-esports-trilha-explorer.vercel.app/)
   
   <p>Observando que também está alocado ao lado esquerdo dentro do projeto no GitHub</p>
 
