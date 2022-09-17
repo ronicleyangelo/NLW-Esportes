@@ -8,15 +8,12 @@
  Projeto construído do evento Next Level Week
  da Rocketseat.
 
- Logo abaixo deixarei o link do acesso do Projeto no GitHub e o site 
-
- ### Projeto do GitHub
-
-  ![Clique aqui para acessar o projeto](https://github.com/ronicleyangelo/NLW-Esports-Explorer).
+ Logo abaixo estara fixado o link que direcionará para o site!! 
 
   ### _Site_
 
-  ![Clique aqui para acessar o site] (https://nlw-esports-trilha-explorer.vercel.app/)
+  ![:link: Clique aqui para acessar o site] (https://nlw-esports-trilha-explorer.vercel.app/)
+  
   <p>Observando que também está alocado ao lado esquerdo dentro do projeto no GitHub</p>
 
  ## Tecnologias
@@ -25,13 +22,6 @@
  - CSS
  - Git e GitHub
 
- ## _Contato_
+ ## :purple_heart:  _Contato_
 
  ronicley8@hotmail.com
-=======
-# Evento NLW eSpots - Explorer
-<p> Instutor Make Brito </p>
-
-# Tecnologias Usadas 
-<p>HTML & CSS </p>
->>>>>>> aa8d93b530379d7fa8209484261bcd8a06629f22
