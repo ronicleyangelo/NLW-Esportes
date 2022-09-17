@@ -10,7 +10,7 @@
 
  Logo abaixo deixarei o link do acesso do Projeto no GitHub e o site 
 
- 	### _Projeto do GitHub_
+ ### Projeto do GitHub
 
   ![Clique aqui para acessar o projeto](https://github.com/ronicleyangelo/NLW-Esports-Explorer).
 
